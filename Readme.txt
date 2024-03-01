@@ -1,2 +1,2 @@
 Код смотреть в Assets/Scripts
-Скрины/видосы в папке Showcases
+Скрины/видосы PoC в папке Showcases
